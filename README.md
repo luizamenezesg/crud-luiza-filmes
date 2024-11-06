@@ -1,5 +1,4 @@
-#CRUD - Gerenciamento de Filmes - API da OMDb
-
+# CRUD - Gerenciamento de Filmes - API da OMDb
 Trabalho P2 - CRUD - Gerenciamento de Filmes
 
 - Fetch API com PROMISE;
